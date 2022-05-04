@@ -1,7 +1,3 @@
-Users can spend most of the hours scrolling through hundreds, sometimes thousands of anime’s never finding an content they like. 
-Our objective is to build recommendation systems which recommend anime's considering 
-or based on their likes and needs in order to create a better streaming environment that 
-boosts revenue and increases the time spent on a Website.
 
 ### About Dataset
 #### Context
