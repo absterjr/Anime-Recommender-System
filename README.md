@@ -1,2 +1,0 @@
-# Anime Recommender System
- 
