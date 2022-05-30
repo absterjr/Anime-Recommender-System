@@ -22,3 +22,7 @@ rating - rating out of 10 this user has assigned (-1 if the user watched it but 
 
 ### Inspiration
 Building a better anime recommendation system based only on user viewing history.
+
+
+### Model
+I have used Cosine Similarity, KNN Based to create recommendation systems
