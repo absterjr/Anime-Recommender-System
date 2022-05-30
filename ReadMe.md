@@ -25,4 +25,4 @@ Building a better anime recommendation system based only on user viewing history
 
 
 ### Model
-I have used Cosine Similarity, KNN Based to create recommendation systems
+I have used Cosine Similarity, KNN  as well as Association Rules to create recommendation systems
