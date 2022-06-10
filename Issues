@@ -1,0 +1,12 @@
+This Project was made as a part of my course curriculum at the University.
+
+It is an Anime Recommender System that recommends different animes to people based on what the input was given.
+
+The Recommender Systems were made using multiple libraries of Python. 
+
+The API used was Fastapi.
+
+Issues- 
+
+I had to make different APIs for all the different recommenders I made. I need to create an API which contains all of my recommenders in it.
+The FrontEnd was made using HTML. It is just a basic version and needs modification to look good.
